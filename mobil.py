@@ -1,0 +1,1 @@
+print("Abubakr jim bo'ling")
