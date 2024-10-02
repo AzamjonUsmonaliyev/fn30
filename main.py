@@ -2,11 +2,11 @@ print("salom")
 
 
 
-asda
-dasda
-sdsa
-dasd
-sadasd
-sa
+# asda
+# dasda
+# sdsa
+# dasd
+# sadasd
+# sa
 
 
